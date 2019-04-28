@@ -1,10 +1,9 @@
 ### Projet de stéganographie
 
 #### Rappel du contexte
-Pour tout contact rapide : mailto:alt.g2-ex9c5kp@monmail.fr.nf
+Pour tout contact rapide : 
 
-Vous faites partie d'une RedTeam chargé de tester la sécurité d'un serveur d'image hosté dans un hidden service ( http://taorwbjrx5ugswsz.onion )
-Pour vous connecter au site, vous pouvez télécharger le tor browser bundle https://www.torproject.org/download/
+Vous faites partie d'une RedTeam chargé de tester la sécurité d'un serveur d'image hosté dans un hidden service 
 
 Un de vos collègue a trouvé une vulnérabilité et semble pouvoir exécuter du code sur le serveur de contenu.
 La BlueTeam a détecté son reverse-shell et filtre désormais les contenus, seul des images jpg peuvent transiter entre ce serveur et vous.
