@@ -1,8 +1,7 @@
 ### Projet de stéganographie
 
 #### Rappel du contexte
-Pour tout contact rapide : 
-
+```
 Vous faites partie d'une RedTeam chargé de tester la sécurité d'un serveur d'image hosté dans un hidden service 
 
 Un de vos collègue a trouvé une vulnérabilité et semble pouvoir exécuter du code sur le serveur de contenu.
@@ -18,7 +17,7 @@ Si l'outil bypass des outils/types standards de stéganalyse, vous aurez plus de
 Générez une clef gpg de signature, exportez la partie publique et saisissez la dans le champ de saisie texte du moodle.
 
 Archivez les sources de votre programme et déposez les sur le moodle.
-
+```
 
 #### Composition du programme
 Deux binaires:
