@@ -1,0 +1,15 @@
+[package]
+name = "binary_read_write"
+version = "0.1.0"
+authors = ["Thomas SAVIO <thomas.savio@outlook.fr>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "Un binaire pour lire et écrire dans le contenu du fichier png"
+homepage = "https://github.com/ytulf"
+repository = "https://github.com/ytulf"
+keywords = ["rust", "exploit", "png"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+steganography = "*"
+encryptfile="*"
